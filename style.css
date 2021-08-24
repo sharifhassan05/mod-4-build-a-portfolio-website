@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    font-family: 'Lato', sans-serif;
+}
+
+section{
+    display: flex;
+}
+
+.header{
+    margin: 5%;
+    
+}
+
+a{
+    background-image: linear-gradient(rgb(233, 95, 95), rgb(214, 53, 24));
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+span{
+    color: rgb(240, 99, 48);
+}
+
+img{
+    height: 500px;
+}
+
+.top-bg{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.box{
+    margin: 10px 30px;
+    padding: 30px;
+    border-radius: 10px;
+    width: 600px;
+    box-shadow: 30px 30px 40px gray; 
+}
