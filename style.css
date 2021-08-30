@@ -53,3 +53,8 @@ img{
     width: 600px;
     box-shadow: 30px 30px 40px gray; 
 }
+
+#first{
+    border-left: 7px solid blue;
+}
+
