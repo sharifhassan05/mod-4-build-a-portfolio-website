@@ -36,7 +36,10 @@ img{
 
 #experience{
     display: inline-block;
-    
+}
+
+#exph{
+    margin-left: 30px;
 }
 
 .flexible{
@@ -58,3 +61,12 @@ img{
     border-left: 7px solid blue;
 }
 
+#second{
+    border-left: 7px solid orangered;
+}
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
