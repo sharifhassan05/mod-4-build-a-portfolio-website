@@ -34,14 +34,22 @@ img{
     background-repeat: no-repeat;
 }
 
+#experience{
+    display: inline-block;
+    
+}
+
 .flexible{
     display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
 
 .box{
     margin: 10px 30px;
     padding: 30px;
     border-radius: 10px;
+    height: 300px;
     width: 600px;
     box-shadow: 30px 30px 40px gray; 
 }
